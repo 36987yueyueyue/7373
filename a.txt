@@ -2,3 +2,6 @@ hello
 world
 add 1
 xiaohong
+add 2
+add 3
+add xiaoming
